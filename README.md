@@ -1,3 +1,1 @@
-# Optimizing TORCS driving with evolutionary algorithms
-
-Paper for EvoApps and on.
+Preparar un trabajo sobre la implementacion de un bot con campionatos y coevolucion de redes neuronales y logica difusa
